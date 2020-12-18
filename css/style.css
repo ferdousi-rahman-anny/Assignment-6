@@ -1,0 +1,97 @@
+
+header{padding: 20px 50px;content: flex }
+.logo{width: 15%; padding-right: 30px;padding-bottom: 16px}
+.logo img{width: 95px}
+.search{width: 25%;padding-top: 12px}
+.search .input{width: 70%;}
+.search .input input{width: 100%;padding: 5px 10px;
+border: 1px solid #525252}
+.search .submit{width: 30%}
+.search .submit input{width: 100%;padding: 5px 10px;
+font-size: 14px;background-color: #1dbf73;color: #fff;
+font-weight: 600;border: 1px solid #1dbf73;}
+
+
+nav{width: 60%;padding-top: 10px}
+nav ul{justify-content: flex-end;display: flex;
+}
+nav ul li{display:flex;}
+nav ul li a{font-size: 15px;color: #525252;font-size:18px;
+
+display: block;padding: 5px 10px}
+nav ul li a i{}
+nav ul li a:hover{color: #1dbf73}
+nav ul li:last-child a{border: 2px solid;color: #15c563;padding-left: 15px;padding-right: 15px}
+nav ul li:last-child a:hover{background-color: #1dbf73;color: #fff}
+.banner-section{background: #52525278  url('../images/hero.7c51764-1.jpg');
+ background-size: cover;padding: 100px 200px
+;background-position-x: right;background-repeat: no-repeat;background-blend-mode: multiply;}
+.banner-content{ }
+.banner-content h1{font-size: 60px;max-width: 500px;line-height: 1.4;margin-bottom: 30px;
+    color: #fff;font-weight: 900;
+}
+
+.banner-content a{border: 2px solid  #1dbf73;
+	background:  #1dbf73;color: #fff;letter-spacing:1px; 
+	text-decoration: none;display: inline-block;
+	padding: 8px 15px;font-weight: 600;color: #fff
+}
+.btn{padding-left: 150px;padding-bottom: 115px}
+.banner-content a:hover{color: green}
+.about-section{padding: 80px 350px;text-align: center;}
+.about-section h2{font-size: 30px;color: black ;padding-bottom: 15px;font-weight: 900}
+.about-section p{font-size:15px;font-weight: 500;max-width:600px;margin: auto;  }
+.about-section h6{font-size:20px;font-weight: 400;color: black }
+.lifeatfiverr-section{width:calc(100%-100px);margin: 0 auto;background: #000000}
+.video-thumbnail{display: flex;align-items: center;justify-content: center;
+	background-image: url('../images/video-thumb.a45ac80.jpg');height: 100%}
+.video-thumbnail a{color: #fff;font-size: 60px}
+.find-us{padding: 50px;color: #fff;}
+.find-us h3{font-size: 22px;letter-spacing: 1px;}
+.find-us p{font-size: 15px;line-height: 1.5}
+.find-us strong{display: block;margin-top: 30px;margin-bottom: 10px}
+.find-us a.inastagram{display: block;padding: 10px;
+text-align: center;color: #fff;background: #ce0b80;margin-bottom: 10px}
+.find-us a.facebook{display: block;padding: 10px;
+text-align: center;color: #fff;background: indigo}
+.find-us a.instagram:hover{}
+.find-us a.facebook:hover{}
+.location-section{padding: 80px 0;}
+.location-section h2{text-align: center;font-size: 30px;margin-bottom: 20px;}
+.location{padding: 10px;position: relative;}
+.location img{width: 100%;height: 200px}
+.location h3{font-size: 20px; position: absolute;top: 50%;right:50%;
+	transform: translate(50% ,-50%);color: #fff}
+.location-1 img{width: 100%;height: 425px}
+.location-1 h3{font-size: 20px; position: absolute;top: 50%;right:50%;
+	transform: translate(50% ,-50%);color: #fff}
+.location-1{padding: 10px;position: relative;}		
+.category-section{padding: 50px 0}
+.category-section h2{text-align: center; padding-bottom: 25px;color: black}
+.team_cat{text-align: center; transition: all 0.3s;border-radius: 10px;
+	padding:30px 20px;background: #ffffff;box-shadow: 14px 14px 44px #e8e8e8,-14px -14px 44px #ffffff; }
+.team_cat h4{font-size:20px;font-color:black;font-weight:1500;border-bottom: 1px solid #555; padding-bottom: 10px;margin-bottom: 10px;}
+.team_cat span{font-size:17px;font-color: #333;font-weight: 400}
+.social-section{padding-bottom: 30px}
+.social-section .col{width: 25%;padding: 15px;}
+.employee{text-align: right;padding-right:15px }
+.employee a{font-size: 14px;text-decoration: underline;color: #333}
+.social-section .col a{padding: 10px;display: block;border: 1px solid #55555552;text-align: center; }
+.social-section .col a:hover{background-color: #ce0b80;color:#bb36b1bd;
+ }
+.team_cat:hover{background: #ffffff;box-shadow: -14px -14px 44px #e8e8e8,14px 14px 44px #ffffff; color: #1dbf73;}
+.do{padding: 50px}
+.do col-6{background-image: url('../images/do-list.973531a.jpg');}
+.visit{text-align: center;padding-top: 10px;}
+.visit a{font-size: 18px;font-weight: 1200;text-decoration: underline;color: black}
+.col-8 h3{font-size: 20px;color:black;font-weight: 800 }
+.col-8 p{font-size: 18px;color:black; }
+.col-8{padding: 80px 40px;}
+.img-2{width: 100%;height: 100%}
+
+
+
+
+
+
+
